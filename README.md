@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @jcrews97
+- 👀 I’m interested in ...
+Cloud platforms, system administration, Kubernetes
+- 🌱 I’m currently learning ...
+Kubernetes/preparing for the CKA exam
+- 💞️ I’m looking to collaborate on ...
+Cool projects and learning useful new technologies with my team
+- 📫 How to reach me ...
+
+<!---
+jcrews97/jcrews97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
